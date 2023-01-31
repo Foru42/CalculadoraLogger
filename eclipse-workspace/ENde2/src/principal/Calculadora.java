@@ -71,7 +71,7 @@ public class Calculadora {
 				} else {
 					System.out.println("Operaci�n no v�lida");
 				}
-				LOGGER.log(Level.FINE, "Nivel de log cambiado a Fine");
+				LOGGER.log(Level.FINE, "Nivel de log cambiado a Fine"+"numero 1 " + operandos[0]+" numero 2 " +operandos[1]);
 			} catch (ArithmeticException e) {
 				LOGGER.log(Level.WARNING, "Nivel de log cambiado a Warning");
 				System.out.println("ERROR " + e.getMessage());
