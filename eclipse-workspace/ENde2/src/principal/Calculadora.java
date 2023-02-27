@@ -17,6 +17,8 @@ import operaciones.Operaciones;
  * @version 1.0
  */
 
+
+
 public class Calculadora {
 	private static final Logger LOGGER = Logger.getLogger(Calculadora.class.getName());
 
@@ -56,22 +58,26 @@ public class Calculadora {
 				if (operacion.equalsIgnoreCase("+")) {
 					resultado = operaciones.sumar(operandos[0], operandos[1]);
 					System.out.println("Resultado: " + resultado);
+					LOGGER.log(Level.FINE,"Operacion sumar" + " numero 1: " + operandos[0] + " numero 2: " + operandos[1]);
 				} else if (operacion.equalsIgnoreCase("-")) {
 					resultado = operaciones.restar(operandos[0], operandos[1]);
 					System.out.println("Resultado: " + resultado);
+					LOGGER.log(Level.FINE,"Operacion restar" + " numero 1: " + operandos[0] + " numero 2: " + operandos[1]);
 				} else if (operacion.equalsIgnoreCase("*")) {
 					resultado = operaciones.multiplicar(operandos[0], operandos[1]);
-					System.out.println("Resultado: " + resultado);
+					LOGGER.log(Level.FINE,"Operacion multiplicar" + " numero 1: " + operandos[0] + " numero 2: " + operandos[1]);
 				} else if (operacion.equalsIgnoreCase("/")) {
 					resultado = operaciones.dividir(operandos[0], operandos[1]);
 					System.out.println("Resultado: " + resultado);
+					LOGGER.log(Level.FINE,"Operacion dividir" + " numero 1: " + operandos[0] + " numero 2: " + operandos[1]);
 				} else if (operacion.equalsIgnoreCase("%")) {
 					resultado = operaciones.resto(operandos[0], operandos[1]);
 					System.out.println("Resultado: " + resultado);
+					LOGGER.log(Level.FINE,"Operacion resto" + " numero 1: " + operandos[0] + " numero 2: " + operandos[1]);
 				} else {
 					System.out.println("Operaci�n no v�lida");
 				}
-				LOGGER.log(Level.FINE, "Nivel de log cambiado a Fine"+" numero 1: " + operandos[0]+" numero 2: " +operandos[1]);
+				
 			} catch (ArithmeticException e) {
 				LOGGER.log(Level.WARNING, "Nivel de log cambiado a Warning");
 				System.out.println("ERROR " + e.getMessage());
