@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-30T10:11:05.720166200Z</date>
+  <millis>1675073465720</millis>
+  <nanos>166200</nanos>
+  <sequence>1</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>CONFIG</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuración hecha.</message>
+</record>
+<record>
+  <date>2023-01-30T10:11:05.730163400Z</date>
+  <millis>1675073465730</millis>
+  <nanos>163400</nanos>
+  <sequence>2</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a FINE</message>
+</record>
+<record>
+  <date>2023-01-30T10:11:05.735162400Z</date>
+  <millis>1675073465735</millis>
+  <nanos>162400</nanos>
+  <sequence>3</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINER</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ejemplo con log FINE en LOGGER completado.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-30T10:22:30.956021500Z</date>
+  <millis>1675074150956</millis>
+  <nanos>21500</nanos>
+  <sequence>0</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>CONFIG</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuración hecha.</message>
+</record>
+<record>
+  <date>2023-01-30T10:22:31.025024500Z</date>
+  <millis>1675074151025</millis>
+  <nanos>24500</nanos>
+  <sequence>1</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a FINE</message>
+</record>
+<record>
+  <date>2023-01-30T10:22:31.025024500Z</date>
+  <millis>1675074151025</millis>
+  <nanos>24500</nanos>
+  <sequence>2</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINER</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ejemplo con log FINE en LOGGER completado.</message>
+</record>
+<record>
+  <date>2023-01-30T10:22:39.687569100Z</date>
+  <millis>1675074159687</millis>
+  <nanos>569100</nanos>
+  <sequence>3</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>WARNING</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Error arithmetico</message>
+</record>
+<record>
+  <date>2023-01-30T10:22:39.690547900Z</date>
+  <millis>1675074159690</millis>
+  <nanos>547900</nanos>
+  <sequence>4</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>CONFIG</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuración hecha.</message>
+</record>
+<record>
+  <date>2023-01-30T10:22:39.697513300Z</date>
+  <millis>1675074159697</millis>
+  <nanos>513300</nanos>
+  <sequence>5</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a FINE</message>
+</record>
+<record>
+  <date>2023-01-30T10:22:39.697513300Z</date>
+  <millis>1675074159697</millis>
+  <nanos>513300</nanos>
+  <sequence>6</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINER</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ejemplo con log FINE en LOGGER completado.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-30T10:29:10.763442Z</date>
+  <millis>1675074550763</millis>
+  <nanos>442000</nanos>
+  <sequence>0</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>CONFIG</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuración hecha.</message>
+</record>
+<record>
+  <date>2023-01-30T10:29:10.829442500Z</date>
+  <millis>1675074550829</millis>
+  <nanos>442500</nanos>
+  <sequence>1</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a FINE</message>
+</record>
+<record>
+  <date>2023-01-30T10:29:10.830512900Z</date>
+  <millis>1675074550830</millis>
+  <nanos>512900</nanos>
+  <sequence>2</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINER</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ejemplo con log FINE en LOGGER completado.</message>
+</record>
+<record>
+  <date>2023-01-30T10:29:14.975564100Z</date>
+  <millis>1675074554975</millis>
+  <nanos>564100</nanos>
+  <sequence>3</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>WARNING</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Error arithmetico</message>
+</record>
+<record>
+  <date>2023-01-30T10:29:14.980565Z</date>
+  <millis>1675074554980</millis>
+  <nanos>565000</nanos>
+  <sequence>4</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>CONFIG</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuración hecha.</message>
+</record>
+<record>
+  <date>2023-01-30T10:29:14.982565Z</date>
+  <millis>1675074554982</millis>
+  <nanos>565000</nanos>
+  <sequence>5</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a FINE</message>
+</record>
+<record>
+  <date>2023-01-30T10:29:14.983565100Z</date>
+  <millis>1675074554983</millis>
+  <nanos>565100</nanos>
+  <sequence>6</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINER</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ejemplo con log FINE en LOGGER completado.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-31T11:06:39.022616Z</date>
+  <millis>1675163199022</millis>
+  <nanos>616000</nanos>
+  <sequence>1</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>CONFIG</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuración hecha.</message>
+</record>
+<record>
+  <date>2023-01-31T11:06:39.032647500Z</date>
+  <millis>1675163199032</millis>
+  <nanos>647500</nanos>
+  <sequence>2</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a FINE</message>
+</record>
+<record>
+  <date>2023-01-31T11:06:39.033646100Z</date>
+  <millis>1675163199033</millis>
+  <nanos>646100</nanos>
+  <sequence>3</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINER</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ejemplo con log FINE en LOGGER completado.</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-31T11:27:13.911275300Z</date>
+  <millis>1675164433911</millis>
+  <nanos>275300</nanos>
+  <sequence>0</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>WARNING</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a Warning</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-31T11:35:16.925511200Z</date>
+  <millis>1675164916925</millis>
+  <nanos>511200</nanos>
+  <sequence>0</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a Fine</message>
+</record>
+<record>
+  <date>2023-01-31T11:35:30.216240300Z</date>
+  <millis>1675164930216</millis>
+  <nanos>240300</nanos>
+  <sequence>1</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>WARNING</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a Warning</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-31T11:52:11.635543900Z</date>
+  <millis>1675165931635</millis>
+  <nanos>543900</nanos>
+  <sequence>0</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a Fine numero 1 1 numero 2 1</message>
+</record>
+<record>
+  <date>2023-01-31T11:52:17.769530300Z</date>
+  <millis>1675165937769</millis>
+  <nanos>530300</nanos>
+  <sequence>1</sequence>
+  <logger>principal.Calculadora</logger>
+  <level>WARNING</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Nivel de log cambiado a Warning</message>
+</record>
+</log>
